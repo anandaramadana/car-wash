@@ -33,6 +33,6 @@ Relasi utama:
 ---
 
 ## Tech Stack
-- Laravel 10
+- Laravel 12
 - Bootstrap 5
 - MySQL
